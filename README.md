@@ -17,11 +17,10 @@ Here are some of my notable achievements on GitHub:
 ## Languages Used
 
 Here are the programming languages that I frequently use in my projects:
-- C++
-- JavaScript
-- Python
-- Java
-- HTML/CSS
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> JavaScript
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> Python
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="20"> Java
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="20"> HTML/CSS
 
 ## Conclusion
 
