@@ -38,14 +38,13 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
     </td>
-        </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+      <br>React
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="react" />
+      <br>Redux
     </td>
   </tr>
   <tr>
@@ -95,13 +94,14 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
         <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
       <br>Angular
     </td>
-              <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
-      <br>React
+              </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
     </td>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="react" />
-      <br>React
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="jquery" />
+      <br>Linux
     </td>
  </tr>
 </table>
