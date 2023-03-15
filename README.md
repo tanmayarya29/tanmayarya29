@@ -92,12 +92,12 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
+      <br>Angular
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>React
     </td>
  </tr>
 </table>
