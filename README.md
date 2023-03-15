@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 
 ## 🔭 My Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarya29&layout=compact&langs_count=10&theme=radical)](https://github.com/tanmayarya29)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarya29&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/tanmayarya29)
 
 ## 🌱 I'm currently learning ...
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> JavaScript
