@@ -14,10 +14,6 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarya29&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/tanmayarya29)
 
 ## 🌱 I'm currently learning ...
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="20"> JavaScript
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> Python
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="20"> Java
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="20"> HTML/CSS
 <table>
   <tr>
     <td align="center" width="96">
@@ -41,6 +37,15 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
+    </td>
+        </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
     </td>
   </tr>
   <tr>
