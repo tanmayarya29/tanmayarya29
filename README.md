@@ -79,8 +79,8 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+      <br>FastAPI
     </td>
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
@@ -100,8 +100,12 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
       <br>MySQL
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
+      <br>Tensorflow
     </td>
  </tr>
 </table>
