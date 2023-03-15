@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Tanmay" title="👋 Hi there! I'm Tanmay"/>
+
 # Hi there, I'm Tanmay Mishra 👋
 
 ## Introduction
