@@ -1,6 +1,6 @@
 # Hi there, I'm Tanmay Mishra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" alt="hi"/>
 
-### Somewhere
+### My 🐍...
 
 ![Snake animation](https://github.com/tanmay29i/tanmay29i/blob/output/github-contribution-grid-snake.svg)
 
