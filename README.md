@@ -6,10 +6,6 @@
 
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on, ranging from small personal projects to larger collaborations with other developers.
 
-## Highlights
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tanmayarya29)
-
 ## 📊 My GitHub Stats
 
 [![Tanmay Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmayarya29&show_icons=true&theme=radical)](https://github.com/tanmayarya29)
@@ -17,6 +13,10 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## 🔭 My Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarya29&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/tanmayarya29)
+
+## Highlights
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&row=2&column=3)](https://github.com/tanmayarya29)
 
 ## 🌱 I'm currently learning ...
 <table>
