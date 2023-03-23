@@ -6,6 +6,9 @@
 
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on, ranging from small personal projects to larger collaborations with other developers.
 
+## Highlights
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanmay29i&theme=onedark)](https://github.com/tanmay29i/github-profile-trophy)
 
 ## 📊 My GitHub Stats
 
