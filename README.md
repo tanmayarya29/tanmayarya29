@@ -2,7 +2,7 @@
 
 ![Snake](https://github.com/tanmay29i/tanmay29i/blob/output/github-contribution-grid-snake.svg)
 
-## Introduction
+## 🙋🏻‍♂️ Introduction
 
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on, ranging from small personal projects to larger collaborations with other developers.
 
@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 ## 🔭 My Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarya29&layout=compact&langs_count=10&theme=radical&hide_progress=true)](https://github.com/tanmayarya29)
 
-## Highlights
+## ✨ Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/tanmayarya29)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/tanmayarya29)
 
 ## 🌱 I'm currently learning ...
 <table>
