@@ -1,6 +1,6 @@
 # Hi there, I'm Tanmay Mishra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" alt="hi"/>
 
-![Snake animation](https://github.com/tanmay29/tanmay29i/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/tanmay29i/tanmay29i/blob/output/github-contribution-grid-snake.svg)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&theme=onedark)](https://github.com/tanmayarya29/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&row=2&column=3)](https://github.com/tanmayarya29/github-profile-trophy)
 
 ## 📊 My GitHub Stats
 
