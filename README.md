@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tanmayarya29)
 
 ## 📊 My GitHub Stats
 
