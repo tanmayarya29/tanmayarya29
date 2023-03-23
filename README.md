@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&row=2&column=3)](https://github.com/tanmayarya29)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/tanmayarya29)
 
 ## 🌱 I'm currently learning ...
 <table>
