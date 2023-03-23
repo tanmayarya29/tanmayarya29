@@ -1,5 +1,8 @@
 # Hi there, I'm Tanmay Mishra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" alt="hi"/>
 
+###🐍 Somewhere...
+![Snake animation](https://github.com/tanmay29i/tanmay29i/blob/output/github-contribution-grid-snake.svg)
+
 ## Introduction
 
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on, ranging from small personal projects to larger collaborations with other developers.
