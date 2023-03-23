@@ -8,11 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## Highlights
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Followers)](https://github.com/tanmayarya29/github-profile-trophy)
-| [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Star)](https://github.com/tanmayarya29/github-profile-trophy)
-| [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Repo)](https://github.com/tanmayarya29/github-profile-trophy)
-| [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Commit)](https://github.com/tanmayarya29/github-profile-trophy)
-| [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Pr)](https://github.com/tanmayarya29/github-profile-trophy)
+| [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Followers)](https://github.com/tanmayarya29/github-profile-trophy) | [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Star)](https://github.com/tanmayarya29/github-profile-trophy) | [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Repo)](https://github.com/tanmayarya29/github-profile-trophy) | [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Commit)](https://github.com/tanmayarya29/github-profile-trophy) | [![trophy](https://github-profile-trophy.vercel.app/?username=tanmayarya29&title=Pr)](https://github.com/tanmayarya29/github-profile-trophy)
 
 ## 📊 My GitHub Stats
 
