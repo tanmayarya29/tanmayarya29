@@ -4,7 +4,7 @@
 
 ## 🙋🏻‍♂️ Introduction
 
-Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on, ranging from small personal projects to larger collaborations with other developers.
+Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on ranging from small personal projects to larger collaborations with other developers.
 
 ## 📊 My GitHub Stats
 
