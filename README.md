@@ -8,8 +8,6 @@
   </p>
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions to complex problems. On this profile, you'll find a variety of projects I've worked on ranging from small personal projects to larger collaborations with other developers.</h4>
 
-![Buy me a coffee!!!](https://www.buymeacoffee.com/tanmay29)
-
 ## 📊 My GitHub Stats
 [![Tanmay Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmayarya29&show_icons=true&theme=radical)](https://github.com/tanmayarya29)
 
